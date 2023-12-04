@@ -4,7 +4,7 @@
   "main": "index.js",
   "license": "MIT",
   "dependencies": {
-    "vue": "^2.6.14",
+    "vue": "^3.3.10",
     "ts-jest": "^25.5.1",
     "jest": "^25.5.4"
   },
